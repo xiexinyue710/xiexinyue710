@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 👋 Hello, I'm Xinyue!  
+# 👋 Hello, I'm Xinyue（Stealla）!  
 **🚀 数据科学与AI工程师 | 用代码解构复杂系统**  
 
 <a href="https://www.linkedin.com/in/xinyue-xie-710/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -38,9 +37,8 @@
 - 🤝 寻求开源项目合作机会  
 
 ## 📫 联系我  
-- **邮箱**：xiexinyue710@example.com  
+- **邮箱**：xiexinyue710@sjtu.com  
 - **微信**：xiexy710  
-- **LinkedIn**：[Xinyue Xie](https://www.linkedin.com/in/xinyue-xie-710/)  
 
 ## ⚡ 关于我  
 - 😄 代词：She/Her  
