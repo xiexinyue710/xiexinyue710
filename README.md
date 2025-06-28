@@ -20,12 +20,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiexinyue710&layout=compact&theme=radical)
 
 ## 🌟 精选项目  
-### 1. 🏠 房价预测决策树模型  
-- **技术栈**：Python, Scikit-learn, XGBoost, 高德地图API  
-- **简介**：融合285个城市多源数据，构建准确率83%的房价预测模型，识别核心驱动因子  
-- **链接**：[查看项目](https://github.com/xiexinyue710/housing-price-prediction)
-目  
-### 2. 👗 FashionMNIST图像分类系统  
+ 
+### 1. 👗 FashionMNIST图像分类系统  
 - **技术栈**：Python, PyTorch, NumPy, Pandas, Matplotlib, tqdm
 - **简介**：基于FashionMNIST服装图像数据集，构建卷积神经网络模型，通过数据增强（随机翻转、亮度调整）和超参数调优，实现89.9%的分类准确率。  
 - **链接**：[查看项目](https://github.com/xiexinyue710/machine-learning/blob/main/machine%20learning.ipynb)
