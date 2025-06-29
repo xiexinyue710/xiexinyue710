@@ -24,12 +24,10 @@
 ### 1. 👗 FashionMNIST图像分类系统  
 - **技术栈**：Python, PyTorch, NumPy, Pandas, Matplotlib, tqdm
 - **简介**：基于FashionMNIST服装图像数据集，构建卷积神经网络模型，通过数据增强（随机翻转、亮度调整）和超参数调优，实现89.9%的分类准确率。  
-- **链接**：[查看项目](https://github.com/xiexinyue710/machine-learning/blob/main/machine%20learning.ipynb)
-
-
-FashionMNIST 是一个用于图像分类的常用数据集 卷积神经网络 准确率89.9%
-https://github.com/xiexinyue710/machine-learning/blob/main/machine%20learning.ipynb
-
+- **链接**：[查看项目](https://github.com/xiexinyue710/machine-learning/blob/main/machine%20learning.ipynb) 
+- **技术栈**：Python, PyTorch, NumPy, Pandas, Matplotlib, tqdm
+- **简介**：基于 FashionMNIST 数据集，采用预训练 ResNet18 模型并替换全连接层，结合数据增强（随机翻转 / 旋转 / 裁剪）与动态学习率调度、早停机制，实现 91% 分类准确率的服装图像分类系统。
+- **链接**：[查看项目](https://github.com/xiexinyue710/machine-learning/blob/main/ResNet.py)
 
 ## 📚 学习资源与文档  
 - **📖 数据科学笔记**：[GitHub Wiki](https://github.com/xiexinyue710/xiexinyue710/wiki)  
